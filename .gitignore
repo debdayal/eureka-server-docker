@@ -1,0 +1,10 @@
+bin
+target
+.mvn
+.settings
+.project
+.classpath
+.springBeans
+mvnw
+mvnw.cmd
+docker/*.jar
